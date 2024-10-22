@@ -7,5 +7,5 @@
       - because I want all my stuff under one _brand_
   - private repos are in Azure DevOps
     - will be moved here _later than sooner_
-      - because I'm used to how Azure DervOps works
+      - because I'm used to how Azure DevOps works
   
