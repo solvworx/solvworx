@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Sorry, but all of our repos are private. 
+:no_entry_sign: Sorry, but all of our repos are private. 
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
